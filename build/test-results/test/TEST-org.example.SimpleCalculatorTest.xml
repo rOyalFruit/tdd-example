@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.SimpleCalculatorTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2024-11-26T02:30:04" hostname="HWAN" time="0.077">
+  <properties/>
+  <testcase name="1 + 2 = 3" classname="org.example.SimpleCalculatorTest" time="0.047"/>
+  <testcase name="2 + 10 = 12" classname="org.example.SimpleCalculatorTest" time="0.003"/>
+  <testcase name="10 + 20 = 30" classname="org.example.SimpleCalculatorTest" time="0.001"/>
+  <testcase name="1 * 2 = 2" classname="org.example.SimpleCalculatorTest" time="0.001"/>
+  <testcase name="2 * 10 = 20" classname="org.example.SimpleCalculatorTest" time="0.001"/>
+  <testcase name="10 * 20 = 200" classname="org.example.SimpleCalculatorTest" time="0.001"/>
+  <testcase name="2 % 1 = 0" classname="org.example.SimpleCalculatorTest" time="0.001"/>
+  <testcase name="2 % 10 = 2" classname="org.example.SimpleCalculatorTest" time="0.001"/>
+  <testcase name="10 % 20 = 10" classname="org.example.SimpleCalculatorTest" time="0.001"/>
+  <testcase name="1 / 2= 0" classname="org.example.SimpleCalculatorTest" time="0.001"/>
+  <testcase name="10 / 2 = 5" classname="org.example.SimpleCalculatorTest" time="0.001"/>
+  <testcase name="10 / 20 = 0" classname="org.example.SimpleCalculatorTest" time="0.001"/>
+  <testcase name="1 - 2 = -1" classname="org.example.SimpleCalculatorTest" time="0.001"/>
+  <testcase name="2 - 10 = -8" classname="org.example.SimpleCalculatorTest" time="0.001"/>
+  <testcase name="10 - 20 = -10" classname="org.example.SimpleCalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
